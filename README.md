@@ -1,9 +1,9 @@
-[![Header](https://github.com/VozdyXxx/VozdyXxx/blob/main/assets/Comp-1-_online-video-cutter.com_.gif)](www.linkedin.com/in/hazr1n)
+[![Header](https://github.com/VozdyXxx/VozdyXxx/blob/main/assets/Comp-1-_online-video-cutter.com_.gif)](https://www.linkedin.com/in/hazr1n)
 
-about me
+# About Me
 
-lates project
+Latest Projects
 
-language and tools
+# Languages and Tools
 
-folow me
+Follow Me
