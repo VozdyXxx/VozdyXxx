@@ -1,10 +1,10 @@
 [![Header](https://github.com/VozdyXxx/VozdyXxx/blob/main/assets/Comp-1-_online-video-cutter.com_.gif)](https://www.linkedin.com/in/hazr1n)
 
-# I'm a Software and bot Engeneer
+## I'm a Software and bot Engeneer
 
 Latest Projects
 
-# Languages and Tools
+## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-060607?style=for-the-badge&logo=python)
 ![Bot](https://img.shields.io/badge/Bot-060607?style=for-the-badge&logo=telegram)
 ![Ai](https://img.shields.io/badge/AI-060607?style=for-the-badge&logo=openai)
@@ -12,6 +12,11 @@ Latest Projects
 ![Selenium](https://img.shields.io/badge/Selenium-060607?style=for-the-badge&logo=selenium)
 ![Automatic](https://img.shields.io/badge/AutoWork-060607?style=for-the-badge&logo=inductiveautomation)
 ![VideDesigner](https://img.shields.io/badge/Video%20Designer-060607?style=for-the-badge&logo=davinciresolve)
-![Promo](https://img.shields.io/badge/promo%20video-060607?style=for-the-badge&logo=vimeo)
 
-Follow Me
+## Follow Me
+[![Telegram](https://img.shields.io/badge/Telegram-060607?style=for-the-badge&logo=telegram)](https://t.me/Breathe_VozdyX)
+[![Instagram](https://img.shields.io/badge/instagram-060607?style=for-the-badge&logo=Instagram)](https://www.instagram.com/vozdy_x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060607?style=for-the-badge&logo=invision&logoColor=007BB6)](www.linkedin.com/in/hazr1n)
+[![Upwork](https://img.shields.io/badge/Upwork-060607?style=for-the-badge&logo=Upwork)](https://www.upwork.com/freelancers/~018e3e9a7d6fcfbfda)
+[![Twitter](https://img.shields.io/badge/Twitter-060607?style=for-the-badge&logo=x)](https://x.com/Danil23374991)
+
