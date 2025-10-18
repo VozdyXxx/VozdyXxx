@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180" fill="none">
+  <!-- Фон -->
+  <rect width="700" height="180" rx="12" fill="#060607"/>
+
+  <!-- Заголовок -->
+  <text x="50%" y="40" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="22" font-weight="bold">
+    📊 Project Summary
+  </text>
+
+  <!-- Python Projects -->
+  <circle cx="80" cy="90" r="12" fill="#3776ab"/>
+  <text x="75" y="95" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold">Py</text>
+  <text x="120" y="95" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="16">
+    Python Automation — 6 projects
+  </text>
+
+  <!-- GameDev Projects -->
+  <rect x="70" y="120" width="24" height="24" rx="4" fill="#00bfff"/>
+  <text x="75" y="138" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold">🎮</text>
+  <text x="120" y="140" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="16">
+    GameDev — 8 projects
+  </text>
+
+  <!-- Design & Video Projects -->
+  <rect x="70" y="155" width="24" height="24" rx="4" fill="#ff9a00"/>
+  <text x="75" y="173" fill="#060607" font-family="Segoe UI, sans-serif" font-size="12" font-weight="bold">Ai</text>
+  <text x="120" y="175" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="16">
+    Design & Video — 4 projects
+  </text>
+</svg>
