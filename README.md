@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Project Statistics](./assets/stats-card.svg)
+![Project Statistics](https://raw.githubusercontent.com/VozdyXxx/VozdyXxx/main/assets/stats-card.svg)
 
 </div>
 
