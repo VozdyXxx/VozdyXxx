@@ -1,0 +1,10 @@
+<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .dark-bg { fill: #0d1117; }
+    </style>
+  </defs>
+  
+  <!-- Dark background -->
+  <rect class="dark-bg" x="0" y="0" width="100%" height="100"/>
+</svg>
