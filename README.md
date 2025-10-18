@@ -3,9 +3,11 @@
 
 ## I'm a Software and bot Engineer
 
-![Project Summary](https://raw.githubusercontent.com/VozdyXxx/VozdyXxx/main/assets/my_projects.svg)
+<div align="center">
 
+![Project Statistics](./assets/stats-card.svg)
 
+</div>
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-060607?style=for-the-badge&logo=python)
